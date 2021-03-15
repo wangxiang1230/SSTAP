@@ -14,11 +14,12 @@ Other versions may also work.
 
 ## Citation
 If our code is helpful for your reseach, please cite our paper:
-'''
+
+```
 @inproceedings{SSTAP,
   title={Self-Supervised Learning for Semi-Supervised Temporal Action Proposal},
   author={Wang, Xiang and Zhang, Shiwei and Qing, Zhiwu and Shao, Yuanjie and Gao, Changxin and Sang, Nong},
   booktitle={CVPR},
   year={2021}
 }
-'''
+```
