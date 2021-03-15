@@ -10,7 +10,7 @@ The code runs correctly with:
 
 Other versions may also work. 
 
-## Code comming soon...
+## Code coming soon...
 
 ## Citation
 If our code is helpful for your reseach, please cite our paper:
