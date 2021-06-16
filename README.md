@@ -13,7 +13,7 @@ Other versions may also work.
 ## Feature and model weights coming soon...
 
 ## Prepare 
-Generate labeled/unlabeled data (you can also use our file directly)
+Generate labeled/unlabeled data (you can also use our files directly)
 ```
 python gen_unlabel_videos.py
 ```
