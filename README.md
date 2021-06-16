@@ -18,7 +18,7 @@ Generate labeled/unlabeled data (you can also use our files directly)
 python gen_unlabel_videos.py
 ```
 
-## Train and Validation
+## Training and Validation
 ```
 bash SSTAP.sh | tee log_SSTAP.txt
 ```
