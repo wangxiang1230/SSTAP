@@ -20,8 +20,13 @@ python gen_unlabel_videos.py
 
 ## Train and Validation
 ```
-bash SSTAP.sh | tee SSTAP_log.txt
+bash SSTAP.sh | tee log_SSTAP.txt
 ```
+
+## Acknowledgement
+
+[BMN: Boundary-Matching Network](https://github.com/JJBOY/BMN-Boundary-Matching-Network) 
+[TSN-Feature](https://github.com/wzmsltw/BSN-boundary-sensitive-network)
 
 ## Citation
 If our code is helpful for your reseach, please cite our paper:
