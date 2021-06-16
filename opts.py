@@ -12,14 +12,14 @@ def parse_opt():
         '--checkpoint_path',
         type=str,
         default='./checkpoint')
-    parser.add_argument(  # use_semi
+    parser.add_argument(  
         '--use_semi',
         type=bool,
-        default=True)  # False  True  True
+        default=True) 
     parser.add_argument(
         '--training_lr',
         type=float,
-        default=0.001)  # 0.001
+        default=0.001)
     parser.add_argument(
         '--unlabel_percent',
         type=float,
@@ -32,11 +32,11 @@ def parse_opt():
     parser.add_argument(
         '--train_epochs',
         type=int,
-        default=10)   # 9
+        default=10)  
     parser.add_argument(
         '--batch_size',
         type=int,
-        default=32)   # 16  32
+        default=16)   # 16 
     parser.add_argument(
         '--step_size',
         type=int,
@@ -62,7 +62,7 @@ def parse_opt():
     parser.add_argument(
         '--feature_path',
         type=str,
-        default="/home/dancer/10.4.4.10/code/BSN/data/activitynet_feature_cuhk/")
+        default="../BSN/data/activitynet_feature_cuhk/")
 
     parser.add_argument(
         '--num_sample',
