@@ -10,7 +10,18 @@ The code runs correctly with:
 
 Other versions may also work. 
 
-## Code coming soon...
+## Feature and model weights coming soon...
+
+## Prepare 
+Generate labeled/unlabeled data (you can also use our file directly)
+```
+python gen_unlabel_videos.py
+```
+
+## Train and Validation
+```
+bash SSTAP.sh | tee SSTAP_log.txt
+```
 
 ## Citation
 If our code is helpful for your reseach, please cite our paper:
