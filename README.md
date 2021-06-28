@@ -15,7 +15,7 @@ Other versions may also work.
 * I3D Feature. [[here]](https://zenodo.org/record/5035205#.YNmAhLvitPY)
 * TSN Feature. [[BSN]](https://github.com/wzmsltw/BSN-boundary-sensitive-network)
 * Model Weights. [[here]](https://zenodo.org/record/5036065#.YNmAE7vitPY)
-* SlowFast101 feature used by the winner of the [CVPR2020 ActivityNet Temporal Action Localization Challenge](https://arxiv.org/abs/2006.07526) and the [CVPR2021 ActivityNet Temporal Action Localization Challenge](https://arxiv.org/abs/2106.11812) is coming soon，and ActivityNet Challenge website is [here](http://activity-net.org/challenges/2021/tasks/anet_localization.html).
+* SlowFast101 feature used by the winners of the [CVPR2020 ActivityNet Temporal Action Localization Challenge](https://arxiv.org/abs/2006.07526) and the [CVPR2021 ActivityNet Temporal Action Localization Challenge](https://arxiv.org/abs/2106.11812) is coming soon，and ActivityNet Challenge website is [here](http://activity-net.org/challenges/2021/tasks/anet_localization.html).
 
 ## Prepare 
 Generate labeled/unlabeled data (you can also use our files directly)
