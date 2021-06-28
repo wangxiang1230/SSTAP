@@ -1,6 +1,6 @@
 # SSTAP
 Pytorch implementation of the paper: "Self-Supervised Learning for Semi-Supervised Temporal Action Proposal" (CVPR-2021) 
-[SSTAP-Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Self-Supervised_Learning_for_Semi-Supervised_Temporal_Action_Proposal_CVPR_2021_paper.pdf)
+[[SSTAP-Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Self-Supervised_Learning_for_Semi-Supervised_Temporal_Action_Proposal_CVPR_2021_paper.pdf)
 
 ## Requirements
 The code runs correctly with:
